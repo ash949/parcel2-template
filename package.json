@@ -1,0 +1,20 @@
+{
+  "name": "parcel2-template",
+  "version": "1.0.0",
+  "description": "Base code for A3 REPLs",
+  "main": "src/index.html",
+  "author": "Hamza Ashour",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "@babel/preset-react": "^7.12.13",
+    "parcel": "^2.0.0-beta.1",
+    "sass": "^1.32.6"
+  }
+}
